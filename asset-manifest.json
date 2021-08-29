@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/linkedin-clone/static/css/main.27025c3b.chunk.css",
+    "main.js": "/linkedin-clone/static/js/main.bf776f8e.chunk.js",
+    "main.js.map": "/linkedin-clone/static/js/main.bf776f8e.chunk.js.map",
+    "runtime-main.js": "/linkedin-clone/static/js/runtime-main.ead418f3.js",
+    "runtime-main.js.map": "/linkedin-clone/static/js/runtime-main.ead418f3.js.map",
+    "static/js/2.db094c9b.chunk.js": "/linkedin-clone/static/js/2.db094c9b.chunk.js",
+    "static/js/2.db094c9b.chunk.js.map": "/linkedin-clone/static/js/2.db094c9b.chunk.js.map",
+    "index.html": "/linkedin-clone/index.html",
+    "static/css/main.27025c3b.chunk.css.map": "/linkedin-clone/static/css/main.27025c3b.chunk.css.map",
+    "static/js/2.db094c9b.chunk.js.LICENSE.txt": "/linkedin-clone/static/js/2.db094c9b.chunk.js.LICENSE.txt",
+    "static/media/gradient.1b1571e3.jpg": "/linkedin-clone/static/media/gradient.1b1571e3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ead418f3.js",
+    "static/js/2.db094c9b.chunk.js",
+    "static/css/main.27025c3b.chunk.css",
+    "static/js/main.bf776f8e.chunk.js"
+  ]
+}
